@@ -19,7 +19,8 @@ const styles = StyleSheet.create({
         shadowOpacity: 0.32,
         shadowRadius: 5.46,
         //android using
-        elevation: 9
+        elevation: 9,
+        marginRight: 16
     },
     avatar: {
         width: 25,
